@@ -1,16 +1,53 @@
-# Responsive Portfolio Website Patrick
-## [Watch it on youtube](https://youtu.be/Y4-xMb-eHOQ)
-### Responsive Portfolio Website Patrick
+# 🌐 Meu Portfólio Pessoal
 
-- Responsive Portfolio Website Design Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Contains a beautiful dark theme.
-- The color of the project can be customized.
-- Sending emails in the contact section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Este é o meu portfólio pessoal, criado com HTML, CSS e JavaScript. O objetivo é apresentar meus projetos, habilidades e um pouco sobre mim como desenvolvedor.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+> 🔧 Este projeto é uma **adaptação personalizada** do template original desenvolvido por [Bedimcode](https://github.com/bedimcode/responsive-portfolio-website-patrick).
 
-![preview img](/preview.png)
+---
+
+## 📌 Funcionalidades
+
+- Layout 100% responsivo
+- Design moderno e minimalista
+- Seções: Início, Sobre, Projetos, Contato
+- Fácil de editar e expandir
+
+---
+
+## 🛠️ Tecnologias usadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## ✏️ Personalizações feitas
+
+- Substituição de textos e imagens com minhas informações pessoais
+- Ajustes de layout e paleta de cores
+- Modificações no conteúdo dos projetos
+- Inclusão de novos ícones e seções
+
+---
+
+## 📸 Captura de tela
+
+*(opcional: adicione aqui uma imagem do seu portfólio pronto)*
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a **MIT License**.  
+Você pode usar, modificar e distribuir este conteúdo, desde que mantenha os créditos ao autor original do template base.
+
+Template original: [responsive-portfolio-website-patrick](https://github.com/bedimcode/responsive-portfolio-website-patrick) – criado por [Bedimcode](https://github.com/bedimcode)
+
+---
+
+## 🚀 Veja o projeto online
+
+*(opcional – se publicar no GitHub Pages depois, adicione o link aqui)*  
+➡️ [meu-portfolio.github.io](https://seuusuario.github.io/nome-do-repositorio/)
